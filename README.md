@@ -11,11 +11,17 @@ is simulated on the Simulink with CAD model of the gimbal and proportional integ
 (PID) controller is used for the system. Simulation results confirms the tracking of the stimulus
 object.
 
-<img align = "center" src="pp1.jpeg" style="width:800px;height:300px;">
+<p align="center">
+  <img src="pp1.jpeg" />
+</p>
 
-![Raspberry PI Demo](pp2.jpeg)
+<p align="center">
+  <img src="pp2.jpeg" />
+</p>
 
-![Gimbal](gimbal.jpg)
+<p align="center">
+  <img src="gimbal.jpg" />
+</p>
 
 
 Project demo video  https://youtu.be/xHHwAmC-rAc  
