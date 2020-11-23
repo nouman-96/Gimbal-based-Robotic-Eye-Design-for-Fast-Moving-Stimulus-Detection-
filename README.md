@@ -4,11 +4,11 @@ In dynamic social environment, fast eye ball movement in robotic eye is much nee
 and track the fast moving stimulus. For tracking of fast moving stimulus, high decoupling ratio of
 camera sensor from the head skeleton is required. Two axis gimbal system is used to achieve high
 decoupling ratio. Mathematical modeling of gimbal system is done by considering the torque
-disturbances and dynamic unbalance. For ecient tracking and independent eye movement in
+disturbances and dynamic unbalance. For efficient tracking and independent eye movement in
 the bumpy environment, stabilization control system is designed. Non-linear System equations
 are linearized using Jacobain matrix to achieve linear state space equations. The overall model
 is simulated on the Simulink with CAD model of the gimbal and proportional integral derivative
-(PID) controller is used for the system. Simulation results conrms the tracking of the stimulus
+(PID) controller is used for the system. Simulation results confirms the tracking of the stimulus
 object.
 
 
