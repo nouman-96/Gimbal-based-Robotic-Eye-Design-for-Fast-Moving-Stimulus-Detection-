@@ -11,6 +11,12 @@ is simulated on the Simulink with CAD model of the gimbal and proportional integ
 (PID) controller is used for the system. Simulation results confirms the tracking of the stimulus
 object.
 
+![Raspberry PI demo](pp1.jpeg)
+
+![Raspberry PI Demo](pp2.jpeg)
+
+![Gimbal](gimbal.jpg)
+
 
 Project demo video  https://youtu.be/xHHwAmC-rAc  
 
