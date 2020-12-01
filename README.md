@@ -11,10 +11,14 @@ is simulated on the Simulink with CAD model of the gimbal and proportional integ
 (PID) controller is used for the system. Simulation results confirms the tracking of the stimulus
 object.
 
+## 3D CAD Model of 2 axis gimbal for MATLAB Simulink simulation
 <p align="center">
   <img src="gimbal.PNG" />
 </p>
 
+### Simulink Simulation of YAW Axis Step Response of Gimbal https://www.youtube.com/watch?v=uA5-d7-RH-Y
+### Simulink Simulation of PITCH Axis Step Response of Gimbal https://www.youtube.com/watch?v=SsKMqfEnkuc
+## Prototype Raspberry PI implementation of FPV Gimbal
 <p align="center">
   <img src="pp1.jpeg" />
 </p>
@@ -23,11 +27,12 @@ object.
   <img src="pp2.jpeg" />
 </p>
 
+## Real Time Implmentation of Algorithms on BGC 2.0 Gimbal
 <p align="center">
   <img src="gimbal.jpg" />
 </p>
 
 
-Project demo video  https://youtu.be/xHHwAmC-rAc  
+### Project demo video  https://youtu.be/xHHwAmC-rAc  
 
-Ping Pong Ball Detection and Tracking Demo https://youtu.be/P4KbkO4UtrA
+### Ping Pong Ball Detection and Tracking Demo https://youtu.be/P4KbkO4UtrA
