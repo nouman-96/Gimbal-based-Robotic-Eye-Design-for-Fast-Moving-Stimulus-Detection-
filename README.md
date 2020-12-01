@@ -12,6 +12,10 @@ is simulated on the Simulink with CAD model of the gimbal and proportional integ
 object.
 
 <p align="center">
+  <img src="gimbal.PNG" />
+</p>
+
+<p align="center">
   <img src="pp1.jpeg" />
 </p>
 
